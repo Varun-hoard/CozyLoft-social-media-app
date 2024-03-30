@@ -18,5 +18,5 @@ A completely Responsive social mediaApp- Works on Android, iOS & Web!
     
 ## Feedback
 
-If you have any feedback, please reach out to me at varun29.vm@gmail.com@gmail.com
+If you have any feedback, please reach out to me at varun29.vm@gmail.com
 
