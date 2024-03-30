@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863690071162",
+    "project_id": "literaryloft-c4a18",
+    "storage_bucket": "literaryloft-c4a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863690071162:android:f089cb3a3820ef896f6fc3",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtYkRIlu6f_1V82EUAf-Xu1IR0-L-Vhlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
